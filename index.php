@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <title>Talha Shaukat</title>
-  <meta content="security researcher, security consultant, bug bounty, bug bounty hunter, web security, penetration testing, cyber security, information security, siber güvenlik, bilgi güvenliği" name="keywords">
+  <meta content="Talha Shaukat Android developer, web developer, REST Api developer, Photographer, Youtuber" name="keywords">
   <meta content="Security Consultant" name="description">
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Playfair+Display:400,400i,700,700i,900,900i" rel="stylesheet">
   <link href="assets/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -20,7 +20,7 @@
   <div id="header" class="home">
     <div class="container"> 
       <div class="header-content">
-        <h1>I Develop <span class="typed"></span></h1>
+        <h1>I'M <span class="typed"></span></h1>
         <p>Android Apps, Web Apps, REST APIs, much more</p>
         <ul class="list-unstyled list-social">
       <li><a href="https://github.com/Talha-dev1980" target="_blank"><i class="ion-social-github"></i></a></li>

@@ -400,7 +400,7 @@
 	};
 
 	$.fn.typed.defaults = {
-		strings: ["These are the default values...", "You know what you should do?", "Use your own!", "Have a great day!"],
+		strings: ["Andorid Apps", "Web Apps", "REST APIs", "much more.."],
 		stringsElement: null,
 		// typing speed
 		typeSpeed: 0,
