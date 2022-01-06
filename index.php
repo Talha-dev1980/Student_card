@@ -14,7 +14,7 @@
   <link href="assets/lib/hover/hover.min.css" rel="stylesheet">
   <link href="assets/css/style.css" rel="stylesheet">
   <link href="assets/css/responsive.css" rel="stylesheet">
-  <link rel="shortcut icon" href="images/favicon.png">
+  <link rel="shortcut icon" href="./images/favicon.png">
 </head>
 <body>
   <div id="header" class="home">
@@ -23,7 +23,7 @@
         <h1>I'M <span class="typed"></span></h1>
         <p>Android Apps, Web Apps, REST APIs, much more</p>
         <ul class="list-unstyled list-social">
-      <li><a href="https://github.com/Talha-dev1980" target="_blank"><i class="ion-social-github"></i></a></li>
+      <li><a href="https://github.com/Talha-dev1980" target="_blank"><i class="ion-social-github" ></i></a></li>
           <li><a href="https://www.linkedin.com/in/talha-shaukat-63993617a" target="_blank"><i class="ion-social-linkedin" target="_blank"></i></a></li>
           <li><a href="https://www.youtube.com/BeGharzPakistan"><i class="ion-social-youtube" target="_blank"></i></a></li>
       <li><a href="https://www.instagram.com/sheikh___talha/" target="_blank"><i class="ion-social-instagram"></i></a></li>
